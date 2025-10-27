@@ -1,10 +1,4 @@
 <template>
-  <header>
-    <nav>
-      <RouterLink to="/">Home</RouterLink> |
-      <RouterLink to="/about">Sobre</RouterLink>
-    </nav>
-  </header>
 
   <main>
     <RouterView />
